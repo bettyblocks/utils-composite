@@ -1,7 +1,7 @@
 // @flow
 
 import {curry} from "flow-static-land/lib/Fun";
-import {isLastIndex} from "@jumpn/utils-array";
+import {isLastIndex} from "@betty-blocks/utils-array";
 
 import get from "./get";
 import hasKey from "./hasKey";

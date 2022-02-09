@@ -1,7 +1,7 @@
 // @flow
 
 import {curry} from "flow-static-land/lib/Fun";
-import {remove as arrayRemove} from "@jumpn/utils-array";
+import {remove as arrayRemove} from "@betty-blocks/utils-array";
 
 import type {Composite, Key} from "./types";
 
